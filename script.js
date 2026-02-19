@@ -419,7 +419,7 @@ numpy==1.26.0`
     },
     <span class="string">"contact"</span>: {
         <span class="string">"email"</span>: <span class="string">"meryemmsakinn@gmail.com"</span>,
-        <span class="string">"linkedin"</span>: <span class="string">"linkedin.com/in/meryem-sakin"</span>,
+        <span class="string">"linkedin"</span>: <span class="string">"https://www.linkedin.com/in/meryem-s-510423221/"</span>,
         <span class="string">"github"</span>: <span class="string">"github.com/meryemsakin"</span>
     },
     <span class="string">"availability"</span>: <span class="string">"immediate"</span>
